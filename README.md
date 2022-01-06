@@ -10,3 +10,6 @@ When we type this command in the terminal, the page below should open automatica
 
 ![image](https://user-images.githubusercontent.com/90493668/148340648-2b3208ae-efd2-4cf9-b160-b9bb5960bf4e.png)
 
+How to run the Streamlit code ---> streamlit run file_name.py
+
+![image](https://user-images.githubusercontent.com/90493668/148340791-dcc67040-b00a-4dfb-9d2a-5266ab74f20d.png)
