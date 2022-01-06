@@ -12,4 +12,5 @@ When we type this command in the terminal, the page below should open automatica
 
 How to run the Streamlit code ---> streamlit run file_name.py
 
-![image](https://user-images.githubusercontent.com/90493668/148340791-dcc67040-b00a-4dfb-9d2a-5266ab74f20d.png)
+![streamlit](https://user-images.githubusercontent.com/90493668/148340998-a9dac5eb-3dfc-4879-b382-7f143159d6e0.png)
+
