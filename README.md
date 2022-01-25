@@ -1,6 +1,6 @@
 # STREAMLIT-PROJECTS
 
-![image](https://user-images.githubusercontent.com/90493668/151048096-3fc53bd9-ec1a-47cc-8654-abd93c5562c3.png)
+![image](https://user-images.githubusercontent.com/90493668/151048259-4e2caae8-e89c-4591-bdc7-409bb708009f.png)
 
 Streamlit is a free and open-source framework to rapidly build and share beautiful machine learning and data science web apps. It is a Python-based library specifically designed for machine learning engineers. Data scientists or machine learning engineers are not web developers and they’re not interested in spending weeks learning to use these frameworks to build web apps. Instead, they want a tool that is easier to learn and to use, as long as it can display data and collect needed parameters for modeling. Streamlit allows you to create a stunning-looking application with only a few lines of code.
 
