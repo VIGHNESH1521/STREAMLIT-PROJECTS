@@ -20,7 +20,7 @@ Streamlit is a free and open-source framework to rapidly build and share beautif
 
 - streamlit run file_name.py
 
-# When we type this command in the terminal, the desired output should be visible
+# When we type this command in the terminal, the output should be like
 
 ![streamlit](https://user-images.githubusercontent.com/90493668/148340998-a9dac5eb-3dfc-4879-b382-7f143159d6e0.png)
 
